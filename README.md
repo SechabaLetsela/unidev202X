@@ -1,1 +1,1 @@
-This is where I store all my private files for training
+This is where I store all my public files for reference.
